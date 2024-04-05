@@ -49,10 +49,10 @@ You need to install `NPM` into your window, Ubuntu or macOS.
 
 _This is the step you have to follow._
 
-1. Get a free API Key at [https://github.com/Yesh-adithya31/StreamApp.git](https://github.com/Yesh-adithya31/StreamApp.git)
+1. Get a free API Key at (https://github.com/Yesh-adithya31/ecommerce.git)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Yesh-adithya31/StreamApp.git
+   git clone https://github.com/Yesh-adithya31/ecommerce.git
    ```
 3. Install npm packages
    ```sh
